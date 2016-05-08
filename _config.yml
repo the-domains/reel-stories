@@ -1,0 +1,14 @@
+layout_spectrum: 0.9210526
+color:
+  saturation: 0.2529538
+  lightness: 0.1058002
+  brandStrength: 0.599371
+  brandColors:
+    - '#FFFFFF'
+    - '#0D0E09'
+    - '#474D43'
+    - '#D3B016'
+    - '#9E1D39'
+  rhythmicContrast: 0.7083781
+typography_spectrum: 0.9146079
+name: Reel Stories
