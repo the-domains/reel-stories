@@ -1,28 +1,40 @@
-name: Reel Stories
-favicon: null
-layout_spectrum: 0.9210526
-typography_spectrum: 0.9146079
-cta:
-  domain: null
-  bucket: null
-  version: null
 analytics:
+  twitter: null
   google: null
   facebook: null
-  twitter: null
 opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#FFFFFF'
-    - '#0D0E09'
-    - '#474D43'
-    - '#D3B016'
-    - '#9E1D39'
-  brandStrength: 0.9375
-  lightness: 0.5
-  saturation: 0.5
-  rhythmicContrast: 0.7083781
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 purpose: []
+color:
+  saturation: 0.5
+  brandStrength: 0.8813104
+  lightness: 0.5
+  brandColors:
+    - '#141A28'
+    - '#F3FFFF'
+    - '#C6C281'
+    - '#BE6C19'
+    - '#6EE5F8'
+  rhythmicContrast: 0.7083781
+typography_spectrum: 0.3829215
+cta:
+  bucket: null
+  version: null
+  domain: null
+layout_spectrum: 0.4205156
+favicon: null
+name: Reel Stories
