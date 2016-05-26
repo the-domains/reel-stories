@@ -1,7 +1,5 @@
-analytics:
-  twitter: null
-  google: null
-  facebook: null
+favicon: null
+name: Reel Stories
 opengraph:
   image: null
   type: null
@@ -20,9 +18,9 @@ collections:
       number: 10
 purpose: []
 color:
-  saturation: 0.5
+  saturation: 0.2755102
   brandStrength: 0.8813104
-  lightness: 0.5
+  lightness: 0.2228786
   brandColors:
     - '#141A28'
     - '#F3FFFF'
@@ -31,10 +29,12 @@ color:
     - '#6EE5F8'
   rhythmicContrast: 0.7083781
 typography_spectrum: 0.3829215
+layout_spectrum: 0.4205156
 cta:
   bucket: null
   version: null
   domain: null
-layout_spectrum: 0.4205156
-favicon: null
-name: Reel Stories
+analytics:
+  twitter: null
+  google: null
+  facebook: null
